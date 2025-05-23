@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: petclinic
-          image: 844820972788.dkr.ecr.ap-southeast-1.amazonaws.com/dsuser-15-cluster-repo:0d1715273da2cfa429280d5a6d7656e2fcad4be6
+          image: 844820972788.dkr.ecr.ap-southeast-1.amazonaws.com/dsuser-15-cluster-repo:60a1e41eb37a8685ac6237fd2f8c01d4c397a91b
           ports:
             - containerPort: 8080
           resources:
